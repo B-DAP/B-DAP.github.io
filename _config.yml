@@ -23,19 +23,19 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/B_DAP
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/B-DAP
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://plus.google.com/+AlexGraciov
     desc:	Add me on google+
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	http://b-dap.github.io/atom.xml
     desc:	Subscribe to my feed
     
 menu:
