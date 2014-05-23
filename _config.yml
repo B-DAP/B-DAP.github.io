@@ -9,10 +9,10 @@ permalink:	/blog/:title
 title:		Thinny
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://camporez.com
+url:		b-dap.github.io
 
 author:
-  name:		'Ian Camporez Brunelli'
+  name:		'Alex Graciov'
   url:		https://google.com/+IanCamporezBrunelli
 
 paginate:	5
