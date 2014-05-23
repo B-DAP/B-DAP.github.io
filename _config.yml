@@ -6,9 +6,9 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		SoftCom
 tagline:	'blog'
-description:	'My personal blog.'
+description:	'A Test Blog for Development Reasons. *wink*'
 url:		b-dap.github.io
 
 author:
