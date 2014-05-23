@@ -1,17 +1,17 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Engineer is Credit to Team
+description:      Just put some WD-40 on that
 logo:             site-logo.png
 disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:              http://localhost:4000
+url:              b-dap.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Alex Graciov
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          agraciov@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
@@ -44,7 +44,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Canada/Eastern
 future:      true
 highlighter: pygments
 markdown:    kramdown
