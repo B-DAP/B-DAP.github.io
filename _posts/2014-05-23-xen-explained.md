@@ -2,9 +2,6 @@
 published: true
 ---
 
----
-layout: post
----
 ## Xen
 
 is a hypervisor using a microkernel design, providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently.
