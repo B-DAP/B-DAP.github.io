@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## New Week, New Day, New Adventure...
