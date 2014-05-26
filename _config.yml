@@ -13,11 +13,11 @@ url:              b-dap.github.com
 paginate:         5
 
 author:
-  name:           'Alex Graciov'
-  url:            http://google.ca
+  name:           'Ingram Micro'
+  url:            http://ingrammicro.com
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/B-DAP/B-DAP.github.io
