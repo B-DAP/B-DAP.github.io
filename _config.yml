@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Ingram Micro
-tagline:          'Cloud Marketplace'
-description:      'Blog about Marketplace'
+title:            Marketplace
+tagline:          'by Ingram Micro Cloud'
+description:      'Blog about Marketplace and stuff...'
 url:              b-dap.github.com
 paginate:         5
 
