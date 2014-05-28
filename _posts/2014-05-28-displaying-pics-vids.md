@@ -5,7 +5,7 @@ layout: post
 
 # Local Picture
 
-![Local Picture]({{site.url}}/assets/sunny_beach_2-wallpaper-1920x1080.jpeg)
+![Local Picture]({{site.url}}/assets/post-test.jpg)
 # Embedded from external Source
 <img src="https://i.imgur.com/UVxsmVh.gif" />
 
