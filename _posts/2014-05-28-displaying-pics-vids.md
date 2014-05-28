@@ -5,7 +5,7 @@ layout: post
 
 # Local Picture
 
-![Local Picture]({{site.url}}/assets/post-test.jpg)
+<img src="/assets/post-test.jpg">
 # Embedded from external Source
 <img src="https://i.imgur.com/UVxsmVh.gif" />
 
