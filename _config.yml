@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Cloud Marketplace Blog
-tagline:          'by Ingram Micro'
-description:      'Blog about Marketplace and stuff...'
+title:            For Customers, By Customers
+tagline:          'Blogy Blogy'
+description:      'Impossible is a word to be only found in the dictionry of 					fools - Napoleon Bonaparte'
 url:              b-dap.github.com
 paginate:         5
 
