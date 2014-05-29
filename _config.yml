@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            For Customers, By Customers
+title:            Demo Blog
 tagline:          'Blogy Blogy'
-description:      'Impossible is a word to be only found in the dictionry of 					fools - Napoleon Bonaparte'
+description:      'Brief Description of Blog'
 url:              b-dap.github.com
 paginate:         5
 
 author:
-  name:           'Ingram Micro'
-  url:            http://ingrammicro.com
+  name:           'Alex Graciov'
+  url:            https://github.com/B-DAP/B-DAP.github.io
 
 # Custom vars
 version:          1.0.0
