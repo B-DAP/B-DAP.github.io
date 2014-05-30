@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : So Long
-tagline: And Thanks For All The Fish
+title : Test Blog
+tagline: Alone
 author : 
   name : Alex Graciov
   email : agraciov@gmail.com
