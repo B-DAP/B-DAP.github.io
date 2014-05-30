@@ -11,10 +11,10 @@ pygments: true
 title : So Long
 tagline: And Thanks For All The Fish
 author : Alex Graciov
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Alex Graciov
+  email : agraciov@gmail.com
+  github : b-dap
+  twitter : b_dap
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
