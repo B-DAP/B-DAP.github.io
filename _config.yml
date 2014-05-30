@@ -1,6 +1,8 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
+paginate: 5 #pagination based on number of posts
+paginate_path: "page:num"
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -11,14 +13,17 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap-3
-tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+title: Test Blog from Alex
+author:
+  name: dbyll
+  email: agraciov@gmail.com
+  github: asd123
+  twitter: asd123
+  pinterest: asd123
+  linkedin: asd123
+  resume: asd123
+  bio: Your stylish, minimalist theme!
+  email_md5: 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -28,7 +33,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://b-dap.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -85,7 +90,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : bdap
     livefyre :
       site_id : 123
     intensedebate :
@@ -101,7 +106,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #
   analytics :
-    provider : google
+    provider : false
     google :
         tracking_id : 'UA-***'
     googleUA :
