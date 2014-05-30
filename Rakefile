@@ -120,7 +120,7 @@ namespace :theme do
   # Returns Success/failure messages.
   desc "Switch between Jekyll-bootstrap themes."
   task :switch do
-    theme_name = ENV["name"].to_s
+    theme_name = ENV["twitter"].to_s
     theme_path = File.join(CONFIG['themes'], theme_name)
     settings_file = File.join(theme_path, "settings.yml")
     non_layout_files = ["settings.yml"]
