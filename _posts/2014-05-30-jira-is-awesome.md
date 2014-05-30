@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 category: test
-tags:
+tags: 
   - intro
   - beginner
   - testing
