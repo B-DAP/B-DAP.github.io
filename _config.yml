@@ -11,13 +11,13 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap-3
-tagline: Site Tagline
+title : Alex's Bootstrap of Lanyon
+tagline: Work in Progress
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Alex Graciov
+  email : agraciov@gmail.com
+  github : b-dap
+  twitter : b_dap
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
