@@ -1,6 +1,8 @@
 ---
-published: false
+published: true
 layout: post
+category: Latin
+tags: [latin, language]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus, enim nec porta tristique, leo elit placerat tortor, vitae condimentum sem orci vel odio. Fusce tincidunt orci augue, vitae tristique dolor feugiat eu. Vestibulum viverra ante urna, in fermentum tortor porttitor et. Pellentesque pulvinar est eu metus lobortis, vitae blandit velit mollis. Maecenas laoreet velit vitae tortor tincidunt tincidunt. In ullamcorper venenatis cursus. Aliquam tincidunt sapien vel vulputate imperdiet. Nulla tortor est, auctor ullamcorper erat ac, rhoncus tristique felis. Pellentesque ornare purus sed risus rutrum, sit amet rutrum eros lacinia.
