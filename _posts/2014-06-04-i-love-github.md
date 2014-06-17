@@ -1,6 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+category: lonely
 ---
+
+Lonely
 
 Lorem ipsum dolor sit amet, vis verear interesset no, ut nec malis utroque nominati. Eum tempor audiam persius te, delenit lucilius cu vim. Eu saepe virtute reprimique nec, duo at consequat reprehendunt, laoreet praesent ad mei. No eum inani dicant comprehensam. Has autem inermis ne.
 
